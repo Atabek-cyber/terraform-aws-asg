@@ -2,8 +2,7 @@
 
 ```
 module "asg" {
-    source = "Atabek-cyber/asg/aws
-"
+    source = "Atabek-cyber/asg/aws"
 }
 
 ```
